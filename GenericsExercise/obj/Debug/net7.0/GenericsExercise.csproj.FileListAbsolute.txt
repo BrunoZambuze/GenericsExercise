@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\bin\Debug\net7.0\GenericsExercise.exe
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\bin\Debug\net7.0\GenericsExercise.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\bin\Debug\net7.0\GenericsExercise.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\bin\Debug\net7.0\GenericsExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\bin\Debug\net7.0\GenericsExercise.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\refint\GenericsExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\GenericsExercise.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\GenericsExercise\GenericsExercise\obj\Debug\net7.0\ref\GenericsExercise.dll
